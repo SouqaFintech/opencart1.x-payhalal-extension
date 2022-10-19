@@ -5,7 +5,6 @@
 ## Supported Version
 
 - [x] Opencart version 1.5.xx
-- [x] Opencart version 1.5.6.4
 
 ## Note
 
