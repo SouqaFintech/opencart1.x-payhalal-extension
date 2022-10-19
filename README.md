@@ -1,5 +1,9 @@
 # Payhalal OpenCart1.x Extension
 
+## Note
+
+SouqaFintech SDN BHD **IS NOT RESPONSIBLE** for any problems that may arise from the use of this extension. Use this at your own risk. For any assistance, please email <mark>salam@payhalal.my</mark>.
+
 ## Requirements
 - PHP 5.2 (bare minimum)
 - Opencart 1.5.x.x
@@ -37,7 +41,3 @@ After you have activated the plugin and created your Payhalal account, head to t
 - Success URL: https://your-website/index.php?route=payment/payhalal/status
 - Return URL: https://your-website/index.php?route=payment/payhalal/status
 - Cancel URL: https://your-website/index.php?route=payment/payhalal/status
-
-## Note
-
-SouqaFintech SDN BHD **IS NOT RESPONSIBLE** for any problems that may arise from the use of this extension. Use this at your own risk. For any assistance, please email <mark>salam@payhalal.my</mark>.
