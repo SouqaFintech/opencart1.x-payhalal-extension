@@ -30,6 +30,14 @@ Then place the downloaded folder into these 2 locations:
  <OpenCart_DIR>/catalog/*
 ```
 
+Refer to the images below:
+
+![image](https://payhalal.my/images/opencart/plugin_list.jpg) 
+
+![image](https://payhalal.my/images/opencart/plugin_setting.jpg)
+
+![image](https://payhalal.my/images/opencart/payment.jpg)
+
 After that, login to your OpenCart administration, click on *"extension menu"*  and then click on *"Payments submenu"*.
 
 You will see a list of payment method's available on Opencart. Click on the *"Install"* link for Payhalal to install this extension into your store.
