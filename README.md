@@ -8,6 +8,7 @@ SouqaFintech SDN BHD **IS NOT RESPONSIBLE** for any problems that may arise from
 - PHP 5.2 (bare minimum)
 - Opencart 1.5.x.x
 - cURL
+- Non Journal theme
 
 ## Supported Version
 
