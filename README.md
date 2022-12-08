@@ -11,7 +11,8 @@ SouqaFintech SDN BHD **IS NOT RESPONSIBLE** for any problems that may arise from
 
 ## Supported Version
 
-- [x] Opencart version 1.5.x.x
+- [x] Opencart version 1.5.x.x 
+- [x] Opencart version 1.5.x.x (tested with Journal 2 theme)
 
 ## Installation
 
