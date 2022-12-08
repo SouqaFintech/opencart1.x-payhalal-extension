@@ -184,9 +184,5 @@ class ControllerPaymentPayhalal extends Controller {
 
         $this->response->setOutput($this->render());
     }
-
-    private function validate() {
-        	
-    }
 }
 ?>
