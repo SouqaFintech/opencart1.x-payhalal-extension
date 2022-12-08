@@ -55,6 +55,7 @@ class ControllerPaymentPayhalal extends Controller {
         $this->data['entry_success_status'] = $this->language->get('entry_success_status');
         $this->data['entry_failed_status'] = $this->language->get('entry_failed_status');	
         $this->data['entry_status'] = $this->language->get('entry_status');
+        $this->data['entry_sort_order'] = $this->language->get('entry_sort_order');
 
         $this->data['button_save'] = $this->language->get('button_save');
         $this->data['button_cancel'] = $this->language->get('button_cancel');
