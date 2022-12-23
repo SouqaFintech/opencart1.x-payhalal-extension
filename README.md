@@ -47,6 +47,6 @@ After you have installed this extension, you need to click on the *"Edit"* link 
 
 After you have activated the plugin and created your Payhalal account, head to the Payhalal Merchant Dashboard and click on Developer tools. Add the following URLs:
 
-- Success URL: https://your-website/index.php?route=payment/payhalal/status
-- Return URL: https://your-website/index.php?route=payment/payhalal/status
-- Cancel URL: https://your-website/index.php?route=payment/payhalal/status
+- Success URL: https://your-website-url/index.php?route=payment/payhalal/status
+- Return URL: https://your-website-url/index.php?route=payment/payhalal/status
+- Cancel URL: https://your-website-url/index.php?route=payment/payhalal/status
