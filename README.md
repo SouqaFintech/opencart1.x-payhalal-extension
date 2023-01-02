@@ -50,3 +50,5 @@ After you have activated the plugin and created your Payhalal account, head to t
 - Success URL: https://your-website/index.php?route=payment/payhalal/status
 - Return URL: https://your-website/index.php?route=payment/payhalal/status
 - Cancel URL: https://your-website/index.php?route=payment/payhalal/status
+
+**Replace "your-website" with your shopping cart domain.**
