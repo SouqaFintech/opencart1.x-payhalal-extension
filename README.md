@@ -1,15 +1,5 @@
 # Payhalal OpenCart1.x Extension
 
-## Requirements
-- PHP 5.2 (bare minimum)
-- Opencart 1.5.x.x
-- cURL
-
-## Supported Version
-
-- [x] Opencart version 1.5.x.x 
-- [x] Opencart version 1.5.x.x (tested with Journal 2 theme)
-
 ## Installation
 
 If you have existing plugin, please backup your Opencart folder first.
@@ -26,6 +16,16 @@ Then place the downloaded folder into these 2 locations:
  <OpenCart_DIR>/admin/*
  <OpenCart_DIR>/catalog/*
 ```
+
+## Requirements
+- PHP 5.2 (bare minimum)
+- Opencart 1.5.x.x
+- cURL
+
+## Supported Version
+
+- [x] Opencart version 1.5.x.x 
+- [x] Opencart version 1.5.x.x (tested with Journal 2 theme)
 
 Refer to the images below:
 
