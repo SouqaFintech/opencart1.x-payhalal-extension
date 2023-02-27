@@ -55,7 +55,7 @@ Refer to the images below:
 - Success URL: https://your-website/index.php?route=payment/payhalal/status
 - Return URL: https://your-website/index.php?route=payment/payhalal/status
 - Cancel URL: https://your-website/index.php?route=payment/payhalal/status
-- Callback URL: Please let this blank to avoid any issues
+- Callback URL: Please leave this blank to avoid any issues
 
 **Replace "your-website" with your shopping cart domain.**
 
