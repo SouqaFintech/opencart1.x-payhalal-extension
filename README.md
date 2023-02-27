@@ -1,9 +1,5 @@
 # Payhalal OpenCart1.x Extension
 
-## Note
-
-SouqaFintech SDN BHD **IS NOT RESPONSIBLE** for any problems that may arise from the use of this extension. Use this at your own risk. For any assistance, please email <mark>tech_support@payhalal.my</mark>.
-
 ## Requirements
 - PHP 5.2 (bare minimum)
 - Opencart 1.5.x.x
@@ -47,8 +43,22 @@ After you have installed this extension, you need to click on the *"Edit"* link 
 
 After you have activated the plugin and created your Payhalal account, head to the Payhalal Merchant Dashboard and click on Developer tools. Add the following URLs:
 
+Refer to the images below: 
+
+- Login to your <a href='https://merchant.payhalal.my' target='_blank'>merchant dashboard</a>. Then on the left menu click General > Developer Tools, click edit app to insert the url (please refer image below).
+![image](https://payhalal.my/images/opencart/developer_tools.jpeg)
+
+- Select which app key that you want to integrate with woocommerce plugin and insert the URL's as mention below and DO NOT insert callback url for this plugin. Click save button once you finish adding the url's.
+
+![image](https://payhalal.my/images/opencart/url_setting.jpeg)
+
 - Success URL: https://your-website/index.php?route=payment/payhalal/status
 - Return URL: https://your-website/index.php?route=payment/payhalal/status
 - Cancel URL: https://your-website/index.php?route=payment/payhalal/status
+- Callback URL: Please leave this blank to avoid any issues
 
 **Replace "your-website" with your shopping cart domain.**
+
+## Note
+
+SouqaFintech SDN BHD **IS NOT RESPONSIBLE** for any problems that may arise from the use of this extension. Use this at your own risk. For any assistance, please email <mark>tech_support@payhalal.my</mark>.
