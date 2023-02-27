@@ -48,7 +48,7 @@ Refer to the images below:
 - Login to your <a href='https://merchant.payhalal.my' target='_blank'>merchant dashboard</a>. Then on the left menu click General > Developer Tools, click edit app to insert the url (please refer image below).
 ![image](https://payhalal.my/images/opencart/developer_tools.jpeg)
 
-- Select which app key that you want to integrate with woocommerce plugin and insert the URL's as mention below and DO NOT insert callback url for this plugin. Click save button once you finish adding the url's.
+- Select which app key that you want to integrate with opencart plugin and insert the URL's as mention below and DO NOT insert callback url for this plugin. Click save button once you finish adding the url's.
 
 ![image](https://payhalal.my/images/opencart/url_setting.jpeg)
 
