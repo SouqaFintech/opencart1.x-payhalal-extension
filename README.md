@@ -29,7 +29,13 @@ Then place the downloaded folder into these 2 locations:
 
 Refer to the images below:
 
-![image](https://payhalal.my/images/opencart/plugin_list.jpg) 
+Go to your opencart admin then go to Extension > Payments to view Payhalal plugin. Please refer image below
+
+![image](https://payhalal.my/images/opencart/plugin_list.jpeg) 
+
+- Copy the api key either testing or production by login to your <a href='https://merchant.payhalal.my'>merchant dashboard</a>. Go to General > Developer Tools and view the app key and insert the key in the form shown below in your opencart side for payhalal plugin.
+
+- Your can either enable testing or live depends on your need once you finish doing testing, you can enable the plugin to live mode.
 
 ![image](https://payhalal.my/images/opencart/plugin_setting.jpg)
 
